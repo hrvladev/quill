@@ -1,3 +1,5 @@
+**Moved** 👉 [hvladev/quill](https://github.com/hvladev/quill)
+
 Quill
 =====
 
